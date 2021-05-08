@@ -1,0 +1,15 @@
+.vs/
+
+Debug/
+
+*.swp
+
+*.sln
+
+less_04_dll/Debug/
+
+less_04_dll/*.vcxproj
+
+less_04_dll/*.filters
+
+less_04_dll/*.user
